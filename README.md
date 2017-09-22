@@ -1,5 +1,7 @@
 # ES6 TODO App
 
+Gibber gibber gibber. Ish.
+
 This is a simple TODO app written in only core JavaScript in order to teach some of the new concepts in ES6/2015. You are welcome to use this repo any way you like, but note that it is _for training purposes only_. This code is **not production ready**.
 
 ## How to use this repo
